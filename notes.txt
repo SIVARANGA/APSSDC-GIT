@@ -4,3 +4,8 @@
 -->cat filename.extension(for showing msg in file)
 -->git add filename.extension(it add perticular file)
 -->git add .(it add all files)
+-->git rm --cached filename.extension(It removes or not tracked
+-->git commit
+1.click on insert and type msg 
+2.type :wq -->enter
+-->git commit -m "Initial Commit"
