@@ -9,3 +9,6 @@
 1.click on insert and type msg 
 2.type :wq -->enter
 -->git commit -m "Initial Commit"
+-->git log(It shows all commits)
+-->git log --oneline
+-->git log --oneline --reverse
