@@ -1,0 +1,6 @@
+-->git init  (initialise project and also create folder , stores all version)
+-->git -a 
+-->touch filename.extension(for creating file)
+-->cat filename.extension(for showing msg in file)
+-->git add filename.extension(it add perticular file)
+-->git add .(it add all files)
